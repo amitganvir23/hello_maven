@@ -43,7 +43,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class LcdApplication {
 	@RequestMapping("/")
 	public String hello() {
-		return "Hello Maven Sppring boot Application";
+		return "Hello Maven Sppring boot Application for MET Nashik";
 	}
 
 	public static void main(String[] args) {
